@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Marzun 👋</h1>
-<h3 align="center">Passionate Problem Solver | Data Structures & Algorithms Enthusiast | Database Specialist</h3>
+<h3 align="center">Passionate Problem Solver | Data Structures & Algorithms Enthusiast | Oop |Database </h3>
 
 <div style="background-color: #3b1442; padding: 20px; border-radius: 10px;">
   <p align="center">
@@ -51,7 +51,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width="40" />
     <raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" width="40" />
