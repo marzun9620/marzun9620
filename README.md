@@ -2,13 +2,7 @@
 <h3 align="center">Passionate Problem Solver | Data Structures & Algorithms Enthusiast | Oop |Database </h3>
 
 <div style="background-color: #3b1442; padding: 20px; border-radius: 10px;">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=marzun9620&label=Profile%20views&color=0e75b6&style=flat" alt="marzun9620" />
-  </p>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=marzun9620" alt="marzun9620" />
-  </p>
 
   - 🌱 I’m currently enhancing my skills in **Critical Problem Solving, Teamwork, and Academic Research**
   - 👨‍💻 Explore my projects on [GitHub](https://github.com/marzun9620?tab=repositories)
