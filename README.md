@@ -33,19 +33,42 @@ Military Institute of Science and Technology (MIST), Dhaka, Bangladesh - *2021 �
 - **Software and AI Engineer**, [Nesia Inc.](https://nesia-inc.com/) - AI-based system development.
 - **Software Engineer (Automation)**, [MarginEdge](https://www.marginedge.com/) (Dhaka team) - engineering for the U.S. restaurant management platform.
 
-## 🧪 Selected Research Projects
+## 🧪 Research
 
 - **Thyroid-Nodule-Detection** - Automated segmentation and classification of thyroid nodules in ultrasound (companion code to the December 2024 paper).
-- [`Deep-Cluster`](https://github.com/marzun9620/Deep-Cluster) - Deep clustering experiments for unsupervised representation learning.
 - [`Fire_Detection_Notification_Real_time`](https://github.com/marzun9620/Fire_Detection_Notification_Real_time) - Real-time fire detection on ESP32 video streams using YOLOv5.
+- [`Deep-Cluster`](https://github.com/marzun9620/Deep-Cluster) - Deep clustering experiments for unsupervised representation learning.
 - [`QNN`](https://github.com/marzun9620/QNN) - Quantum neural network experiments.
 
-## 🛠 Selected Engineering Projects
+[See all research repos →](https://github.com/marzun9620?tab=repositories&q=topic%3Aresearch)
+
+## 🛠 Engineering
 
 - [`fsd-skill`](https://github.com/marzun9620/fsd-skill) - Feature-Sliced Design architecture guardian skill for React, Next.js, Remix, and React Router.
 - [`goalFlow-agent`](https://github.com/marzun9620/goalFlow-agent) - LLM-assisted goal and workload management agent (Hono · Effect-TS · React Router · Postgres).
 - [`exppance-tracker`](https://github.com/marzun9620/exppance-tracker) - Full-stack personal-finance tracker on Cloudflare Workers (Hono · Drizzle · React).
 - [`OAuth-2.0_TikTok_Shop`](https://github.com/marzun9620/OAuth-2.0_TikTok_Shop) - TikTok Shop OAuth 2.0 integration in TypeScript with Effect-TS layers.
+
+[See all engineering repos →](https://github.com/marzun9620?tab=repositories&q=topic%3Aengineering)
+
+## 🎓 Undergrad Projects
+
+Selected projects from my B.Sc. at MIST.
+
+- [`Bikreta_client`](https://github.com/marzun9620/Bikreta_client) / [`Bikreta_server`](https://github.com/marzun9620/Bikreta_server) - Bulk-purchasing platform with admin sales analytics (MERN · MongoDB).
+- [`Transit-Pro`](https://github.com/marzun9620/Transit-Pro) - Combined bus management solution with secure backend (Laravel · Oracle).
+- [`Article_Publish_Systemm`](https://github.com/marzun9620/Article_Publish_Systemm) - Collaborative platform for writers with user profiles (Java).
+- **One-Connect** - Online verification and donation platform (Flutter · Firebase · Firestore).
+
+[See all undergrad repos →](https://github.com/marzun9620?tab=repositories&q=topic%3Aundergrad-project)
+
+## 📓 Learning Notes
+
+- [`Effect-TS`](https://github.com/marzun9620/Effect-TS) - Notes and experiments with Effect-TS (functional patterns, schema, error handling).
+- [`Database-Essentials`](https://github.com/marzun9620/Database-Essentials) - Schema-first PostgreSQL setup (Atlas migrations · multi-tenant analytics).
+- [`Data-Science-Pre-requisites`](https://github.com/marzun9620/Data-Science-Pre-requisites) - Beginner-friendly roadmap of math/stats/tooling before Python for DS.
+
+[See all learning notes →](https://github.com/marzun9620?tab=repositories&q=topic%3Alearning-notes)
 
 ## 🧰 Technical Skills
 
