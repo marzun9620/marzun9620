@@ -30,8 +30,8 @@ Military Institute of Science and Technology (MIST), Dhaka, Bangladesh — *2021
 
 ## 💼 Experience
 
-- **Software Engineer**, [Nesia Inc.](https://nesia-inc.com/) — AI integration and system development.
-- **Software Engineer**, [MarginEdge](https://www.marginedge.com/) (Dhaka team) — engineering for the U.S. restaurant management platform.
+- **Software and AI Engineer**, [Nesia Inc.](https://nesia-inc.com/) — AI-based system development.
+- **Software Engineer (Automation)**, [MarginEdge](https://www.marginedge.com/) (Dhaka team) — engineering for the U.S. restaurant management platform.
 
 ## 🧪 Selected Research Projects
 
