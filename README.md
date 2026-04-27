@@ -82,6 +82,6 @@ Military Institute of Science and Technology (MIST), Dhaka, Bangladesh — *2021
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marzun9620&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzun9620&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marzun9620&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=false&cache_seconds=1800" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzun9620&layout=compact&hide_border=true&hide=html,css,blade,php,scss,less&langs_count=8&cache_seconds=1800" alt="Top languages" />
 </p>
