@@ -15,6 +15,18 @@ I'm a software engineer at **Nesia Inc.** and a researcher working at the inters
 - **Agent-guided Systems** - LLM-driven planning and orchestration for real-world workflows
 - **Adjacent interests** - Quantum Computing · Functional Programming · Distributed Systems
 
+## 🧰 Technical Skills
+
+**Languages**  TypeScript · JavaScript · Java · Python · C / C++
+
+**ML / CV**  PyTorch · OpenCV · YOLO · U-Net · Image segmentation · Object detection · Jupyter
+
+**Frontend**  React · Next.js · Remix · Tailwind CSS
+
+**Backend**  Node.js · Hono · Effect-TS · Spring · Laravel
+
+**Cloud & Data**  GCP · Cloudflare Workers · PostgreSQL · MySQL · Oracle · Drizzle ORM · Prisma
+
 ## 📚 Publications
 
 - **A Hybrid Residual U-Net Architecture for Enhanced Low-Light Image Restoration** - *Conference paper, July 2025.* Deep learning architecture (hybrid residual U-Net) for image restoration in poor-lighting conditions.
@@ -69,18 +81,6 @@ Selected projects from my B.Sc. at MIST.
 - [`Data-Science-Pre-requisites`](https://github.com/marzun9620/Data-Science-Pre-requisites) - Beginner-friendly roadmap of math/stats/tooling before Python for DS.
 
 [See all learning notes →](https://github.com/marzun9620?tab=repositories&q=topic%3Alearning-notes)
-
-## 🧰 Technical Skills
-
-**Languages**  TypeScript · JavaScript · Java · Python · C / C++
-
-**ML / CV**  PyTorch · OpenCV · YOLO · U-Net · Image segmentation · Object detection · Jupyter
-
-**Frontend**  React · Next.js · Remix · Tailwind CSS
-
-**Backend**  Node.js · Hono · Effect-TS · Spring · Laravel
-
-**Cloud & Data**  GCP · Cloudflare Workers · PostgreSQL · MySQL · Oracle · Drizzle ORM · Prisma
 
 ## 🔗 Connect
 
