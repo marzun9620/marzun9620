@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Marzun 👋</h1>
-<h3 align="center">Software Engineer · Building AI agents that solve real business problems</h3>
+<h3 align="center">Software Engineer & Researcher · Building and contributing to AI pipelines that solve real business problems</h3>
 
 ---
 
-- 🤖 Currently building **AI agents** that turn real business workflows into automated solutions
+- 🤖 Building and contributing to **AI pipelines** that turn real business workflows into automated solutions
+- 🔬 Research interests: **Computer Vision**, **Retrieval-Augmented Generation (RAG)**, and **Agent-guided systems**
 - 🛠 Working day-to-day in **TypeScript, React, Node.js, Effect-TS, Java, GCP**
 - 🧠 Also into **AI / ML models**, agentic systems, and applied research
 - 🌱 Exploring **functional programming**, distributed systems, and developer tooling
