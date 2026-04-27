@@ -6,7 +6,7 @@
 
 ## 👋 About
 
-I'm a software engineer at **Nesia Inc.** and a researcher working at the intersection of **computer vision, retrieval-augmented generation, and agent-guided systems**. I recently completed my B.Sc. in Computer Science and Engineering at the **Military Institute of Science and Technology (MIST), Dhaka**, where I co-authored conference papers in robotics, low-light image restoration, and medical image analysis.
+I'm a software and AI engineer at **Nesia Inc.** and a researcher working at the intersection of **computer vision, retrieval-augmented generation, and agent-guided systems**. I recently completed my B.Sc. in Computer Science and Engineering at the **Military Institute of Science and Technology (MIST), Dhaka**, where I co-authored conference papers in robotics, low-light image restoration, and medical image analysis.
 
 ## 🔬 Research Interests
 
